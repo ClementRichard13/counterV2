@@ -1,0 +1,14 @@
+body {
+  height: 100 vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.counter {
+  display: flex;
+  gap: 20px;
+  margin: 30px;
+  justify-content: center;
+  align-items: center;
+}
